@@ -4,18 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://hoth.one/
+  - name: Hoth
+    url: https://hoth.one/  
+
+  # Sonar instances
+  - name: Sonar ??
+    url: http://125.213.164.12:8080/sonar_admin/
+    
+  #- name: IPv6 test
+  #  url: forwardemail.net
+  #  port: 80
+  #  check: "tcp-ping"
+  #  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
