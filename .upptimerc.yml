@@ -7,8 +7,10 @@ sites:
     url: https://google.com/
   - name: Hoth
     url: https://hoth.one/  
-  - name: MyPortal
+  - name: Symbio Connect - MyPortal
     url: https://myportal.symbionetworks.com
+  - name: Symbio Enterprise - Portal
+    url: https://login.manage.symbioenterprise.global/
   - name: AdvancePBX Portal
     url: https://portal.advancedpbx.com.au/portal/
   - name: Octane - TIAB
