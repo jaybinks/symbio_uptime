@@ -33,6 +33,8 @@ sites:
   - name: Sonar - mvp02nz.symbionetworks.com
     url: mvp02nz.symbionetworks.com
     port: 80    
+    expectedStatusCodes:
+      - 403
 
   # Internal Systems
   - name: Netbox
