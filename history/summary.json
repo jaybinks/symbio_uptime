@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 448,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/125.213.164.12.ico",
     "slug": "sonar",
     "status": "down",
-    "uptime": "26.40%",
-    "uptimeDay": "26.40%",
-    "uptimeWeek": "26.40%",
-    "uptimeMonth": "26.40%",
-    "uptimeYear": "26.40%",
+    "uptime": "7.51%",
+    "uptimeDay": "7.51%",
+    "uptimeWeek": "7.51%",
+    "uptimeMonth": "7.51%",
+    "uptimeYear": "7.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1
+      "2024-12-28": 6
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02-symbionetworks-com",
     "status": "down",
-    "uptime": "90.46%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "90.46%",
+    "uptime": "20.37%",
+    "uptimeDay": "20.37%",
+    "uptimeWeek": "20.37%",
+    "uptimeMonth": "20.37%",
+    "uptimeYear": "20.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 5
     }
   }
 ]
