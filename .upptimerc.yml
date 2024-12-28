@@ -1,7 +1,7 @@
 # Change these first
 owner: jaybinks # Your GitHub organization or username, where this repository lives
 repo: symbio_uptime # The name of this repository
-
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 sites:
   - name: Google
     url: https://google.com/
@@ -15,8 +15,12 @@ sites:
     url: https://portal.advancedpbx.com.au/portal/
   - name: Octane - TIAB
     url: https://octane.telcoinabox.com/tiab/Login
+    expectedStatusCodes:
+      - 403
   - name: Symbio API
     url: https://api.symbionetworks.com/v3/common/titles
+    expectedStatusCodes:
+      - 401
     
 
   # Sonar instances
