@@ -4,9 +4,18 @@ repo: symbio_uptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://hoth.one/
+    url: https://google.com/
   - name: Hoth
     url: https://hoth.one/  
+  - name: MyPortal
+    url: https://myportal.symbionetworks.com
+  - name: AdvancePBX Portal
+    url: https://portal.advancedpbx.com.au/portal/
+  - name: Octane - TIAB
+    url: https://octane.telcoinabox.com/tiab/Login
+  - name: Symbio API
+    url: https://api.symbionetworks.com/v3/common/titles
+    
 
   # Sonar instances
   - name: Sonar ??
