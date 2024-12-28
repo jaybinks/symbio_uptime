@@ -1,8 +1,8 @@
 [
   {
     "name": "Google",
-    "url": "https://hoth.one/",
-    "icon": "https://icons.duckduckgo.com/ip3/hoth.one.ico",
+    "url": "https://google.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,88 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "time": 317,
+    "timeDay": 317,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MyPortal",
+    "url": "https://myportal.symbionetworks.com",
+    "icon": "https://icons.duckduckgo.com/ip3/myportal.symbionetworks.com.ico",
+    "slug": "my-portal",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1520,
+    "timeDay": 1520,
+    "timeWeek": 1520,
+    "timeMonth": 1520,
+    "timeYear": 1520,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "AdvancePBX Portal",
+    "url": "https://portal.advancedpbx.com.au/portal/",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.advancedpbx.com.au.ico",
+    "slug": "advance-pbx-portal",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Octane - TIAB",
+    "url": "https://octane.telcoinabox.com/tiab/Login",
+    "icon": "https://icons.duckduckgo.com/ip3/octane.telcoinabox.com.ico",
+    "slug": "octane-tiab",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
+    "dailyMinutesDown": {
+      "2024-12-28": 2
+    }
+  },
+  {
+    "name": "Symbio API",
+    "url": "https://api.symbionetworks.com/v3/common/titles",
+    "icon": "https://icons.duckduckgo.com/ip3/api.symbionetworks.com.ico",
+    "slug": "symbio-api",
+    "status": "down",
+    "uptime": "1.27%",
+    "uptimeDay": "1.27%",
+    "uptimeWeek": "1.27%",
+    "uptimeMonth": "1.27%",
+    "uptimeYear": "1.27%",
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
+    "dailyMinutesDown": {
+      "2024-12-28": 2
+    }
   },
   {
     "name": "Sonar ??",
@@ -41,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/125.213.164.12.ico",
     "slug": "sonar",
     "status": "down",
-    "uptime": "7.51%",
-    "uptimeDay": "7.51%",
-    "uptimeWeek": "7.51%",
-    "uptimeMonth": "7.51%",
-    "uptimeYear": "7.51%",
+    "uptime": "2.78%",
+    "uptimeDay": "2.78%",
+    "uptimeWeek": "2.78%",
+    "uptimeMonth": "2.78%",
+    "uptimeYear": "2.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 6
+      "2024-12-28": 18
     }
   },
   {
@@ -61,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02-symbionetworks-com",
     "status": "down",
-    "uptime": "20.37%",
-    "uptimeDay": "20.37%",
-    "uptimeWeek": "20.37%",
-    "uptimeMonth": "20.37%",
-    "uptimeYear": "20.37%",
+    "uptime": "7.08%",
+    "uptimeDay": "7.08%",
+    "uptimeWeek": "7.08%",
+    "uptimeMonth": "7.08%",
+    "uptimeYear": "7.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 5
+      "2024-12-28": 17
     }
   }
 ]
