@@ -26,6 +26,15 @@ sites:
     url: mvp02.symbionetworks.com
     port: 80
     check: "tcp-ping"
+  - name: Sonar - mvp02nz.symbionetworks.com
+    url: mvp02nz.symbionetworks.com
+    port: 80    
+
+  # Internal Systems
+  - name: Netbox
+    url: https://netbox.symbio.global/
+    expectedStatusCodes:
+      - 401
 
     
   #- name: IPv6 test
