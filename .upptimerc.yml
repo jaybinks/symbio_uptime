@@ -3,8 +3,8 @@ owner: jaybinks # Your GitHub organization or username, where this repository li
 repo: symbio_uptime # The name of this repository
 user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 sites:
-  - name: Google
-    url: https://google.com/
+  #- name: Google
+  #  url: https://google.com/
   - name: Hoth
     url: https://hoth.one/  
   - name: Symbio Connect - MyPortal
