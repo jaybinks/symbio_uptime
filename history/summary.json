@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 276,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 464,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1402,
-    "timeDay": 1402,
-    "timeWeek": 1402,
-    "timeMonth": 1402,
-    "timeYear": 1402,
+    "time": 1491,
+    "timeDay": 1491,
+    "timeWeek": 1491,
+    "timeMonth": 1491,
+    "timeYear": 1491,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1718,
-    "timeDay": 1718,
-    "timeWeek": 1718,
-    "timeMonth": 1718,
-    "timeYear": 1718,
+    "time": 1804,
+    "timeDay": 1804,
+    "timeWeek": 1804,
+    "timeMonth": 1804,
+    "timeYear": 1804,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 830,
-    "timeWeek": 830,
-    "timeMonth": 830,
-    "timeYear": 830,
+    "time": 822,
+    "timeDay": 822,
+    "timeWeek": 822,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   },
   {
@@ -94,19 +94,19 @@
     "url": "https://octane.telcoinabox.com/tiab/Login",
     "icon": "https://icons.duckduckgo.com/ip3/octane.telcoinabox.com.ico",
     "slug": "octane-tiab",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "status": "up",
+    "uptime": "8.79%",
+    "uptimeDay": "8.79%",
+    "uptimeWeek": "8.79%",
+    "uptimeMonth": "8.79%",
+    "uptimeYear": "8.79%",
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-12-28": 29
+      "2024-12-28": 35
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://api.symbionetworks.com/v3/common/titles",
     "icon": "https://icons.duckduckgo.com/ip3/api.symbionetworks.com.ico",
     "slug": "symbio-api",
-    "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "status": "up",
+    "uptime": "8.78%",
+    "uptimeDay": "8.78%",
+    "uptimeWeek": "8.78%",
+    "uptimeMonth": "8.78%",
+    "uptimeYear": "8.78%",
+    "time": 704,
+    "timeDay": 704,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-12-28": 29
+      "2024-12-28": 35
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/125.213.164.12.ico",
     "slug": "sonar",
     "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "0.93%",
+    "uptimeDay": "0.93%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "0.93%",
+    "uptimeYear": "0.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 45
+      "2024-12-28": 54
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02-symbionetworks-com",
     "status": "down",
-    "uptime": "2.82%",
-    "uptimeDay": "2.82%",
-    "uptimeWeek": "2.82%",
-    "uptimeMonth": "2.82%",
-    "uptimeYear": "2.82%",
+    "uptime": "2.33%",
+    "uptimeDay": "2.33%",
+    "uptimeWeek": "2.33%",
+    "uptimeMonth": "2.33%",
+    "uptimeYear": "2.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 43
+      "2024-12-28": 53
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "mvp02nz.symbionetworks.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
-    "status": "down",
-    "uptime": "15.35%",
-    "uptimeDay": "15.35%",
-    "uptimeWeek": "15.35%",
-    "uptimeMonth": "15.35%",
-    "uptimeYear": "15.35%",
-    "time": 1295,
-    "timeDay": 1295,
-    "timeWeek": 1295,
-    "timeMonth": 1295,
-    "timeYear": 1295,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 1272,
+    "timeDay": 1272,
+    "timeWeek": 1272,
+    "timeMonth": 1272,
+    "timeYear": 1272,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 10
     }
   },
   {
@@ -200,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 732,
-    "timeWeek": 732,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   }
 ]
