@@ -11,6 +11,11 @@ sites:
   # Sonar instances
   - name: Sonar ??
     url: http://125.213.164.12:8080/sonar_admin/
+  - name: Sonar - mvp02.symbionetworks.com
+    url: mvp02.symbionetworks.com
+    port: 80
+    check: "tcp-ping"
+
     
   #- name: IPv6 test
   #  url: forwardemail.net
