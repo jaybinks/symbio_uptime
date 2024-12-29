@@ -22,11 +22,11 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Assist Portal
-    url: assistportal.io
+    url: https://assistportal.io
   - name: TIAB identity
-    url: tiab-identity.telcoinabox.com.au
+    url: https://tiab-identity.telcoinabox.com.au
   - name: TIAB Octane API
-    url: api-octane.telcoinabox.com.au
+    url: https://api-octane.telcoinabox.com.au
 
     
     
