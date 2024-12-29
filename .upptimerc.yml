@@ -21,6 +21,14 @@ sites:
     url: https://api.symbionetworks.com/v3/common/titles
     expectedStatusCodes:
       - 401
+  - name: Assist Portal
+    url: assistportal.io
+  - name: TIAB identity
+    url: tiab-identity.telcoinabox.com.au
+  - name: TIAB Octane API
+    url: api-octane.telcoinabox.com.au
+
+    
     
 
   # Sonar instances
