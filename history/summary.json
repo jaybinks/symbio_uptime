@@ -116,19 +116,19 @@
     "url": "https://assistportal.io",
     "icon": "https://icons.duckduckgo.com/ip3/assistportal.io.ico",
     "slug": "assist-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 788,
-    "timeWeek": 794,
-    "timeMonth": 794,
-    "timeYear": 794,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 766,
+    "timeDay": 724,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-01-01": 0
+      "2025-01-01": 6
     }
   },
   {
