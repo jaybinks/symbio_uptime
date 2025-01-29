@@ -13,7 +13,7 @@
     "time": 557,
     "timeDay": 565,
     "timeWeek": 589,
-    "timeMonth": 572,
+    "timeMonth": 573,
     "timeYear": 557,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1656,
     "timeDay": 1543,
     "timeWeek": 1664,
-    "timeMonth": 1650,
+    "timeMonth": 1649,
     "timeYear": 1656,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1547,
     "timeDay": 1446,
     "timeWeek": 1531,
-    "timeMonth": 1566,
+    "timeMonth": 1575,
     "timeYear": 1547,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 649,
     "timeDay": 622,
     "timeWeek": 684,
-    "timeMonth": 660,
+    "timeMonth": 664,
     "timeYear": 649,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 793,
     "timeDay": 750,
     "timeWeek": 765,
-    "timeMonth": 798,
+    "timeMonth": 797,
     "timeYear": 793,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 726,
     "timeDay": 687,
     "timeWeek": 719,
-    "timeMonth": 726,
+    "timeMonth": 710,
     "timeYear": 726,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1737,
     "timeDay": 1890,
     "timeWeek": 1842,
-    "timeMonth": 1737,
+    "timeMonth": 1743,
     "timeYear": 1737,
     "dailyMinutesDown": {
       "2025-01-21": 28
@@ -150,18 +150,19 @@
     "url": "https://api-octane.telcoinabox.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/api-octane.telcoinabox.com.au.ico",
     "slug": "tiab-octane-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1346,
-    "timeDay": 994,
-    "timeWeek": 1009,
-    "timeMonth": 1346,
-    "timeYear": 1346,
+    "time": 1732,
+    "timeDay": 4751,
+    "timeWeek": 2374,
+    "timeMonth": 1759,
+    "timeYear": 1732,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2025-01-21": 48
     }
   },
@@ -179,7 +180,7 @@
     "time": 1245,
     "timeDay": 1206,
     "timeWeek": 1263,
-    "timeMonth": 1246,
+    "timeMonth": 1252,
     "timeYear": 1245,
     "dailyMinutesDown": {}
   },
@@ -197,7 +198,7 @@
     "time": 668,
     "timeDay": 646,
     "timeWeek": 641,
-    "timeMonth": 668,
+    "timeMonth": 667,
     "timeYear": 668,
     "dailyMinutesDown": {}
   }
