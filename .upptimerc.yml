@@ -35,9 +35,9 @@ sites:
   - name: TIAB Octane API
     url: https://api-octane.telcoinabox.com.au
     
-# TIAB Test environments
-  #- name: TIAB Octane test environment
-  #  url: https://benzine.telcoinabox.com
+ TIAB Test environments
+  - name: TIAB Octane test environment
+    url: https://benzine.telcoinabox.com
 
     
     
