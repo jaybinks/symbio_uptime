@@ -76,9 +76,9 @@
     "url": "https://portal.advancedpbx.com.au/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.advancedpbx.com.au.ico",
     "slug": "advance-pbx-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 739,
     "timeMonth": 749,
     "timeYear": 769,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-28": 0
+    }
   },
   {
     "name": "Octane - TIAB",
