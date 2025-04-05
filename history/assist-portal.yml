@@ -1,7 +1,7 @@
 url: https://assistportal.io
-status: up
-code: 200
-responseTime: 803
-lastUpdated: 2025-04-04T23:10:50.580Z
+status: down
+code: 503
+responseTime: 792
+lastUpdated: 2025-04-05T20:42:53.641Z
 startTime: 2024-12-29T02:19:39.942Z
 generator: Upptime <https://github.com/upptime/upptime>
