@@ -40,10 +40,10 @@
     "url": "https://myportal.symbionetworks.com",
     "icon": "https://icons.duckduckgo.com/ip3/myportal.symbionetworks.com.ico",
     "slug": "symbio-connect-my-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1643,
@@ -51,7 +51,9 @@
     "timeWeek": 1786,
     "timeMonth": 1945,
     "timeYear": 1643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 1
+    }
   },
   {
     "name": "Symbio API",
@@ -180,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
     "status": "down",
-    "uptime": "93.50%",
+    "uptime": "93.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "77.12%",
-    "uptimeYear": "93.50%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.62%",
+    "uptimeYear": "93.36%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1279,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-04-14": 42,
+      "2025-04-14": 262,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
