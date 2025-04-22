@@ -155,14 +155,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-octane.telcoinabox.com.au.ico",
     "slug": "tiab-octane-api",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 2381,
     "timeDay": 1272,
-    "timeWeek": 4482,
+    "timeWeek": 4193,
     "timeMonth": 2808,
     "timeYear": 2381,
     "dailyMinutesDown": {
@@ -184,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
     "status": "down",
-    "uptime": "86.99%",
+    "uptime": "86.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.83%",
-    "uptimeYear": "86.99%",
+    "uptimeMonth": "48.69%",
+    "uptimeYear": "86.50%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1303,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-04-22": 40,
+      "2025-04-22": 978,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -218,9 +218,9 @@
     "url": "https://netbox.symbio.global/",
     "icon": "https://icons.duckduckgo.com/ip3/netbox.symbio.global.ico",
     "slug": "netbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -229,6 +229,8 @@
     "timeWeek": 1361,
     "timeMonth": 839,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 0
+    }
   }
 ]
