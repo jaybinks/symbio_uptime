@@ -4,10 +4,10 @@
     "url": "https://hoth.one/",
     "icon": "https://icons.duckduckgo.com/ip3/hoth.one.ico",
     "slug": "hoth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
@@ -15,7 +15,9 @@
     "timeWeek": 587,
     "timeMonth": 590,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-27": 1
+    }
   },
   {
     "name": "Symbio Enterprise - Portal",
@@ -184,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
     "status": "down",
-    "uptime": "83.37%",
+    "uptime": "83.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.38%",
-    "uptimeYear": "83.37%",
+    "uptimeMonth": "33.42%",
+    "uptimeYear": "83.16%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1354,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-04-27": 43,
+      "2025-04-27": 465,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
