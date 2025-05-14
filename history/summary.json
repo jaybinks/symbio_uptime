@@ -4,10 +4,10 @@
     "url": "https://hoth.one/",
     "icon": "https://icons.duckduckgo.com/ip3/hoth.one.ico",
     "slug": "hoth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -15,7 +15,9 @@
     "timeWeek": 627,
     "timeMonth": 584,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 1
+    }
   },
   {
     "name": "Symbio Enterprise - Portal",
@@ -44,12 +46,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1650,
     "timeDay": 1673,
     "timeWeek": 1650,
-    "timeMonth": 1678,
+    "timeMonth": 1677,
     "timeYear": 1650,
     "dailyMinutesDown": {
       "2025-04-14": 18
@@ -158,12 +160,12 @@
     "slug": "tiab-octane-api",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.67%",
     "time": 2305,
-    "timeDay": 7739,
+    "timeDay": 954,
     "timeWeek": 3220,
     "timeMonth": 2712,
     "timeYear": 2305,
@@ -187,18 +189,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
     "status": "down",
-    "uptime": "73.02%",
+    "uptime": "72.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.02%",
+    "uptimeYear": "72.60%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-05-14": 41,
+      "2025-05-14": 1192,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -243,9 +245,9 @@
     "url": "https://netbox.symbio.global/",
     "icon": "https://icons.duckduckgo.com/ip3/netbox.symbio.global.ico",
     "slug": "netbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -255,6 +257,7 @@
     "timeMonth": 800,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2025-05-14": 0,
       "2025-04-22": 24
     }
   }
