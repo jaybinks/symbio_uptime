@@ -4,19 +4,19 @@
     "url": "https://hoth.one/",
     "icon": "https://icons.duckduckgo.com/ip3/hoth.one.ico",
     "slug": "hoth",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 870,
-    "timeWeek": 627,
-    "timeMonth": 584,
+    "timeDay": 743,
+    "timeWeek": 625,
+    "timeMonth": 585,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-05-14": 1
+      "2025-05-14": 6
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-05-14": 1192,
+      "2025-05-14": 1198,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -245,19 +245,19 @@
     "url": "https://netbox.symbio.global/",
     "icon": "https://icons.duckduckgo.com/ip3/netbox.symbio.global.ico",
     "slug": "netbox",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 695,
-    "timeDay": 698,
-    "timeWeek": 656,
-    "timeMonth": 800,
+    "timeDay": 690,
+    "timeWeek": 659,
+    "timeMonth": 797,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-05-14": 0,
+      "2025-05-14": 6,
       "2025-04-22": 24
     }
   }
