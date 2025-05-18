@@ -4,19 +4,19 @@
     "url": "https://hoth.one/",
     "icon": "https://icons.duckduckgo.com/ip3/hoth.one.ico",
     "slug": "hoth",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 606,
-    "timeWeek": 613,
-    "timeMonth": 584,
-    "timeYear": 577,
+    "time": 576,
+    "timeDay": 540,
+    "timeWeek": 598,
+    "timeMonth": 581,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-05-18": 1
+      "2025-05-18": 6
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-05-18": 891,
+      "2025-05-18": 897,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
