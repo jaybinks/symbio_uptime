@@ -1,7 +1,7 @@
 url: https://api-octane.telcoinabox.com.au
-status: down
-code: 503
-responseTime: 16099
-lastUpdated: 2025-07-22T12:48:24.913Z
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2025-07-22T13:54:28.821Z
 startTime: 2024-12-29T02:21:13.250Z
 generator: Upptime <https://github.com/upptime/upptime>
