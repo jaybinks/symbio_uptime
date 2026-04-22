@@ -32,19 +32,19 @@
     "url": "https://login.manage.symbioenterprise.global/",
     "icon": "https://icons.duckduckgo.com/ip3/login.manage.symbioenterprise.global.ico",
     "slug": "symbio-enterprise-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1677,
-    "timeDay": 1789,
-    "timeWeek": 1460,
-    "timeMonth": 1565,
+    "timeDay": 1696,
+    "timeWeek": 1477,
+    "timeMonth": 1566,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2026-04-22": 1
+      "2026-04-22": 25
     }
   },
   {
@@ -157,14 +157,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.74%",
+    "uptimeYear": "24.73%",
     "time": 1515,
     "timeDay": 1063,
     "timeWeek": 1243,
     "timeMonth": 1280,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2026-04-22": 1114,
+      "2026-04-22": 1139,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -511,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 1115,
+      "2026-04-22": 1139,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
