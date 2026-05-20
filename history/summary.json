@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 616,
-    "timeDay": 611,
-    "timeWeek": 627,
+    "timeDay": 441,
+    "timeWeek": 556,
     "timeMonth": 581,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -22,8 +22,7 @@
       "2025-06-06": 25,
       "2025-06-05": 29,
       "2025-05-30": 16,
-      "2025-05-25": 16,
-      "2025-05-20": 19
+      "2025-05-25": 16
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1669,
-    "timeDay": 1747,
-    "timeWeek": 1693,
-    "timeMonth": 1501,
-    "timeYear": 1685,
+    "timeDay": 1154,
+    "timeWeek": 1616,
+    "timeMonth": 1506,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2026-04-22": 25
     }
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1697,
-    "timeDay": 2647,
-    "timeWeek": 2368,
-    "timeMonth": 1895,
-    "timeYear": 1707,
+    "timeDay": 1447,
+    "timeWeek": 2192,
+    "timeMonth": 1890,
+    "timeYear": 1706,
     "dailyMinutesDown": {
       "2025-06-04": 118
     }
@@ -77,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 289,
-    "timeWeek": 689,
-    "timeMonth": 664,
-    "timeYear": 675,
+    "time": 674,
+    "timeDay": 582,
+    "timeWeek": 662,
+    "timeMonth": 667,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -96,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 761,
-    "timeWeek": 820,
-    "timeMonth": 766,
-    "timeYear": 820,
+    "timeDay": 1085,
+    "timeWeek": 840,
+    "timeMonth": 779,
+    "timeYear": 821,
     "dailyMinutesDown": {}
   },
   {
@@ -108,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octane.telcoinabox.com.ico",
     "slug": "octane-tiab",
     "status": "down",
-    "uptime": "97.31%",
+    "uptime": "97.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.43%",
-    "uptimeYear": "96.25%",
-    "time": 146,
-    "timeDay": 1093,
-    "timeWeek": 916,
-    "timeMonth": 440,
-    "timeYear": 158,
+    "uptimeMonth": "54.08%",
+    "uptimeYear": "96.14%",
+    "time": 147,
+    "timeDay": 684,
+    "timeWeek": 892,
+    "timeMonth": 460,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-05-19": 869,
+      "2026-05-20": 21,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -147,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 673,
-    "timeDay": 682,
-    "timeWeek": 635,
-    "timeMonth": 606,
-    "timeYear": 671,
+    "time": 672,
+    "timeDay": 441,
+    "timeWeek": 609,
+    "timeMonth": 605,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2025-11-26": 22,
       "2025-10-23": 17,
@@ -164,18 +164,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiab-identity.telcoinabox.com.au.ico",
     "slug": "tiab-identity",
     "status": "down",
-    "uptime": "40.46%",
+    "uptime": "40.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.38%",
-    "time": 1504,
-    "timeDay": 2222,
-    "timeWeek": 1746,
-    "timeMonth": 1382,
-    "timeYear": 1407,
+    "uptimeYear": "17.27%",
+    "time": 1503,
+    "timeDay": 1314,
+    "timeWeek": 1783,
+    "timeMonth": 1378,
+    "timeYear": 1406,
     "dailyMinutesDown": {
-      "2026-05-19": 869,
+      "2026-05-20": 21,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -491,9 +492,9 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.43%",
     "time": 2043,
-    "timeDay": 4175,
-    "timeWeek": 2000,
-    "timeMonth": 1748,
+    "timeDay": 3986,
+    "timeWeek": 1995,
+    "timeMonth": 1749,
     "timeYear": 1903,
     "dailyMinutesDown": {
       "2026-05-19": 123,
@@ -528,8 +529,7 @@
       "2025-07-02": 69,
       "2025-06-19": 37,
       "2025-06-04": 39,
-      "2025-05-21": 39,
-      "2025-05-20": 69
+      "2025-05-21": 39
     }
   },
   {
@@ -538,18 +538,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonar-mvp02nz-symbionetworks-com",
     "status": "down",
-    "uptime": "19.71%",
+    "uptime": "19.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1316,
+    "time": 1317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 869,
+      "2026-05-20": 21,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -912,8 +913,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -927,18 +927,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 677,
-    "timeDay": 776,
-    "timeWeek": 653,
-    "timeMonth": 594,
+    "time": 676,
+    "timeDay": 446,
+    "timeWeek": 620,
+    "timeMonth": 593,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2025-06-25": 244,
       "2025-06-11": 294,
       "2025-06-10": 38,
       "2025-06-05": 135,
-      "2025-05-30": 15,
-      "2025-05-20": 19
+      "2025-05-30": 15
     }
   }
 ]
