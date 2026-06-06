@@ -82,22 +82,22 @@
     "url": "https://portal.advancedpbx.com.au/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.advancedpbx.com.au.ico",
     "slug": "advance-pbx-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "83.06%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.89%",
     "time": 816,
-    "timeDay": 776,
-    "timeWeek": 828,
-    "timeMonth": 814,
+    "timeDay": 767,
+    "timeWeek": 822,
+    "timeMonth": 811,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2026-06-03": 198,
       "2026-06-04": 99,
       "2026-06-05": 51,
-      "2026-06-06": 228
+      "2026-06-06": 244
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-11-18": 161,
-      "2026-06-06": 1130,
+      "2026-06-06": 1152,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -191,7 +191,7 @@
     "timeMonth": 1704,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2026-06-06": 1130,
+      "2026-06-06": 1152,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1130,
+      "2026-06-06": 1153,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
