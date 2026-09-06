@@ -78,16 +78,16 @@
     "url": "https://portal.advancedpbx.com.au/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.advancedpbx.com.au.ico",
     "slug": "advance-pbx-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.50%",
     "time": 820,
-    "timeDay": 767,
-    "timeWeek": 897,
-    "timeMonth": 865,
+    "timeDay": 781,
+    "timeWeek": 889,
+    "timeMonth": 864,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2026-06-03": 198,
@@ -125,7 +125,7 @@
       "2026-08-13": 18,
       "2026-09-02": 54,
       "2026-09-01": 0,
-      "2026-09-06": 6
+      "2026-09-06": 7
     }
   },
   {
@@ -134,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/octane.telcoinabox.com.ico",
     "slug": "octane-tiab",
     "status": "down",
-    "uptime": "79.99%",
+    "uptime": "79.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -146,7 +146,7 @@
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-11-18": 161,
-      "2026-09-06": 755,
+      "2026-09-06": 762,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -313,7 +313,7 @@
     "timeMonth": 1356,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2026-09-06": 755,
+      "2026-09-06": 762,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -747,7 +747,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 755,
+      "2026-09-06": 762,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
