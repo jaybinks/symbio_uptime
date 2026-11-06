@@ -60,19 +60,19 @@
     "url": "https://api.symbionetworks.com/v3/common/titles",
     "icon": "https://icons.duckduckgo.com/ip3/api.symbionetworks.com.ico",
     "slug": "symbio-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 736,
-    "timeDay": 15495,
-    "timeWeek": 4392,
-    "timeMonth": 1593,
+    "timeDay": 10588,
+    "timeWeek": 3990,
+    "timeMonth": 1568,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2026-11-06": 6
+      "2026-11-06": 13
     }
   },
   {
@@ -149,7 +149,7 @@
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-11-18": 161,
-      "2026-11-06": 187,
+      "2026-11-06": 200,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -375,7 +375,7 @@
     "timeMonth": 1454,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2026-11-06": 187,
+      "2026-11-06": 200,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -803,7 +803,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 187,
+      "2026-11-06": 200,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
